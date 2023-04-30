@@ -1,0 +1,18 @@
+.header{
+    text-align: center;
+    padding: 30px;
+    font-family: 'Bruno Ace', cursive;
+}
+
+.table_name{
+    font-size: 30px;
+    font-family: 'Sansita', sans-serif;
+}
+
+th{
+    font-size: 20px;
+}
+
+td{
+    font-size: 20px;
+}
